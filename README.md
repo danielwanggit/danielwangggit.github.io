@@ -1,2 +1,2 @@
-<<Daniel Wang>>
-<<SI 338 Fall 2025>>
+<< Daniel Wang >>
+<< SI 338 Fall 2025 >>
